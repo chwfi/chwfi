@@ -14,6 +14,4 @@
   </a>
 </div>
 <br>
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chwfi&layout=compact)](https://github.com/chwfi/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chwfi&layout=compact)](https://github.com/chwfi/github-readme-stats)
