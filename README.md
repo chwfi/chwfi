@@ -9,10 +9,13 @@
     <img src="https://img.shields.io/badge/TSTORY-E74C3C?style=for-the-badge&logo=tistory&logoColor=white"        
   </a>
   <a href="https://www.youtube.com/channel/UC3FHqUJQp1T-y-AslyV6j_A">
-    <img src="https://img.shields.io/badge/Youtube-E74C3C?style=for-the-badge&logo=youtube&logoColor=white"        
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"        
   </a>
   <a href="mailto:kowainaee@gmail.com">
     <img src="https://img.shields.io/badge/kowainaee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"  
+  </a>
+  <a href="mailto:https://ggm.gondr.net/user/profile/55">
+    <img src="https://img.shields.io/badge/SchoolSite-000000?style=for-the-badge&logo=&logoColor=white"  
   </a>
 </div>
 
