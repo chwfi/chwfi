@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Wonseok's&nbsp;Github%20%20&height=175&fontSize=65&fontColor=ffffff)
 
-<h4 align="center">👋 Hello! I'm studying at gyeonggi game meister highschool for game developing <br><br><br><br><br>
-
+<h4 align="center">👋 Hello! I'm studying at gyeonggi game meister highschool for game developing <br><br><br>
 
 <h3 align="center">📫 About Me 📫</h3>
 <div align="center">
