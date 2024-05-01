@@ -17,5 +17,3 @@
     <img src="https://img.shields.io/badge/SchoolSite-000000?style=for-the-badge&logo=&logoColor=white"  
   </a>
 </div>                  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chwfi&layout=compact)](https://github.com/chwfi/github-readme-stats)
